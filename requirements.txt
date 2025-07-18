@@ -1,9 +1,8 @@
 streamlit
-langchain==0.1.16
-chromadb==0.4.24
+faiss-cpu
+langchain
 huggingface_hub
 sentence-transformers
 transformers
 pypdf
 pandas
-tiktoken
