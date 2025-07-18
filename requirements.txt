@@ -5,4 +5,5 @@ huggingface_hub
 sentence-transformers
 transformers
 pypdf
+PyPDF2
 pandas
